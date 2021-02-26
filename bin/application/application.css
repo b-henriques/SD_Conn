@@ -1,0 +1,17 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+.bodybg{
+     -fx-background-image: url('pexels-tembela-bohle-1884584.jpg');
+     -fx-background-size: 100% 100%;    
+  }
+  
+ .front{
+ 	-fx-background-color :  grey;
+ 	-fx-opacity : 80%;
+ 	-fx-background-radius : 30;
+ }
+ 
+ .button:hover {
+        -fx-scale-y: 1.5;
+        -fx-scale-x: 1.5;
+        -fx-background-color: gold;
+}
